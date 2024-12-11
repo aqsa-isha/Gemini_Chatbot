@@ -29,12 +29,10 @@ cd <repository_name>
 
 # 2. Set up a virtual environment
 # On Windows:
-python -m venv venv
-venv\Scripts\activate
+conda create --name myvenv python=3.9
 
-# On macOS/Linux:
-python -m venv venv
-source venv/bin/activate
+conda activate myvenv
+
 
 # 3. Install dependencies
 pip install -r requirements.txt
