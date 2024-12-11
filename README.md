@@ -1,12 +1,11 @@
 # Gemini Chatbot
 
-The **Gemini Q&A App** is a Streamlit-powered application that uses Google's **Gemini Pro** large language model (LLM) to provide intelligent, real-time responses. This app offers an intuitive interface for Q&A interactions, a visually appealing design, and easy management of chat history.
+The **Gemini Chatbot App** is a Streamlit-powered application that uses Google's **Gemini Pro** large language model (LLM) to provide intelligent, real-time responses. This app offers an intuitive interface for interactions, a visually appealing design, and easy management of chat history.
 
 ## Features
 
 - **Real-time Q&A**: Powered by Google's **Gemini Pro** LLM for intelligent responses.
-- **Chat History**: View and manage previous conversations.
-- **Clear Chat**: Reset the chat history with a single click.
+- **Chat History**: View previous conversations.
 - **Interactive UI**: Modern design for an engaging user experience.
 
 ---
